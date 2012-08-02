@@ -1,0 +1,7 @@
+13 jul 2012 09:25:01,578 INFO  ~ Starting C:\play-1.2.4\perros
+13 jul 2012 09:25:05,937 WARN  ~ You're running Play! in DEV mode
+13 jul 2012 09:25:06,843 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+13 jul 2012 09:35:25,427 INFO  ~ Connected to jdbc:mysql://localhost/perros?useUnicode=yes&characterEncoding=UTF-8&connectionCollation=utf8_general_ci
+13 jul 2012 09:35:29,348 INFO  ~ Application 'perros' is now started !
+13 jul 2012 09:48:18,164 INFO  ~ Connected to jdbc:mysql://localhost/perros?useUnicode=yes&characterEncoding=UTF-8&connectionCollation=utf8_general_ci
+13 jul 2012 09:54:23,490 INFO  ~ Connected to jdbc:mysql://localhost/perros?useUnicode=yes&characterEncoding=UTF-8&connectionCollation=utf8_general_ci
